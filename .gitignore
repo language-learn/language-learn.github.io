@@ -5,6 +5,7 @@ _site/
 .jekyll-metadata
 vendor/
 _config_local.yml
+.scripts/
 
 # Ruby
 Gemfile.lock
@@ -21,3 +22,17 @@ Gemfile.local
 .DS_Store
 Thumbs.db
 .claude
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.uv/
+
+# Generated Anki decks
+*.apkg
