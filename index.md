@@ -1,35 +1,53 @@
-# Deutsch C1 Lernplattform
-
-Willkommen auf meiner persönlichen Lernplattform für die deutsche Sprache! Hier dokumentiere ich meinen Weg zum C1-Zertifikat mit strukturierten Vokabeln, Grammatikerklärungen und Übungen.
-
 <style>
+body {
+  background-color: #f5f0e8;
+  color: #2c2416;
+  font-family: 'Courier New', Courier, monospace;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  font-family: 'Courier New', Courier, monospace;
+  color: #2c2416;
+  font-weight: bold;
+}
+
 .tabs {
   display: flex;
-  border-bottom: 2px solid #e0e0e0;
-  margin-bottom: 30px;
-  gap: 10px;
+  gap: 0;
+  margin-bottom: 40px;
+  border: 3px solid #2c2416;
+  background: #2c2416;
 }
 
 .tab-button {
-  padding: 12px 24px;
+  flex: 1;
+  padding: 14px 20px;
   border: none;
-  background: none;
+  background: #d4c4a8;
   cursor: pointer;
-  font-size: 16px;
-  font-weight: 500;
-  color: #666;
-  border-bottom: 3px solid transparent;
-  transition: all 0.3s;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  color: #2c2416;
+  transition: all 0.2s;
+  border-right: 3px solid #2c2416;
+}
+
+.tab-button:last-child {
+  border-right: none;
 }
 
 .tab-button:hover {
-  color: #000;
-  background: #f5f5f5;
+  background: #bfa882;
+  transform: translateY(-2px);
 }
 
 .tab-button.active {
-  color: #2196F3;
-  border-bottom-color: #2196F3;
+  background: #8b7355;
+  color: #f5f0e8;
 }
 
 .tab-content {
@@ -42,27 +60,36 @@ Willkommen auf meiner persönlichen Lernplattform für die deutsche Sprache! Hie
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .topic-list {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 .topic-list li {
-  margin: 15px 0;
-  padding: 15px;
-  border-left: 3px solid #2196F3;
-  background: #f9f9f9;
+  margin: 20px 0;
+  padding: 18px;
+  border: 3px solid #2c2416;
+  background: #fff;
+  box-shadow: 6px 6px 0 #2c2416;
+  transition: all 0.2s;
+}
+
+.topic-list li:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0 #2c2416;
 }
 
 .topic-list li a {
-  color: #2196F3;
-  font-weight: 500;
-  font-size: 18px;
+  color: #8b4513;
+  font-weight: bold;
+  font-size: 17px;
   text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .topic-list li a:hover {
@@ -70,15 +97,20 @@ Willkommen auf meiner persönlichen Lernplattform für die deutsche Sprache! Hie
 }
 
 .topic-list li .topic-desc {
-  color: #666;
-  font-size: 14px;
-  margin-top: 5px;
+  color: #5c4a3a;
+  font-size: 13px;
+  margin-top: 8px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .intro-text {
-  color: #666;
-  margin-bottom: 25px;
-  line-height: 1.6;
+  color: #5c4a3a;
+  margin-bottom: 30px;
+  line-height: 1.8;
+  padding: 15px;
+  background: #fff;
+  border: 2px solid #2c2416;
+  border-left: 8px solid #8b7355;
 }
 </style>
 
