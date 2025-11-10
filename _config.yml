@@ -1,0 +1,32 @@
+title: Deutsch C1 Lernplattform
+description: Meine persönliche Lernplattform für die deutsche Sprache - Vokabular, Grammatik und Übungen
+theme: minima
+lang: de
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# GitHub Pages
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+# Make links relative
+relative_links:
+  enabled: true
+  collections: true
+
+# Optional front matter
+optional_front_matter:
+  remove_originals: true
+
+# Exclude from processing
+exclude:
+  - CLAUDE.md
+  - vokabular/**/vokabeln_de.csv
+  - README.md
+  - .git/
+  - .gitignore
