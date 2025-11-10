@@ -9,6 +9,7 @@ _config_local.yml
 # Ruby
 Gemfile.lock
 .bundle/
+Gemfile.local
 
 # Temporary files
 *_de.csv
