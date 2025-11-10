@@ -3,6 +3,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+vendor/
 
 # Ruby
 Gemfile.lock
@@ -17,3 +18,4 @@ Gemfile.lock
 # OS files
 .DS_Store
 Thumbs.db
+.claude
