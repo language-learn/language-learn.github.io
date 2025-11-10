@@ -46,39 +46,39 @@ Willkommen auf meiner persönlichen Lernplattform für die deutsche Sprache! Hie
   to { opacity: 1; }
 }
 
-.topic-card {
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 20px;
-  margin-bottom: 20px;
-  background: #fafafa;
+.topic-list {
+  list-style: none;
+  padding: 0;
 }
 
-.topic-card h3 {
-  margin-top: 0;
-  color: #2196F3;
+.topic-list li {
+  margin: 15px 0;
+  padding: 15px;
+  border-left: 3px solid #2196F3;
+  background: #f9f9f9;
 }
 
-.topic-meta {
-  color: #666;
-  font-size: 14px;
-  margin: 10px 0;
-}
-
-.topic-links {
-  margin-top: 15px;
-}
-
-.topic-links a {
-  display: inline-block;
-  margin-right: 15px;
-  text-decoration: none;
+.topic-list li a {
   color: #2196F3;
   font-weight: 500;
+  font-size: 18px;
+  text-decoration: none;
 }
 
-.topic-links a:hover {
+.topic-list li a:hover {
   text-decoration: underline;
+}
+
+.topic-list li .topic-desc {
+  color: #666;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.intro-text {
+  color: #666;
+  margin-bottom: 25px;
+  line-height: 1.6;
 }
 </style>
 
@@ -90,60 +90,49 @@ Willkommen auf meiner persönlichen Lernplattform für die deutsche Sprache! Hie
 
 <div id="grammatik" class="tab-content active">
 
-## Grammatikthemen
+## Grammatik
 
-<div class="topic-card">
+<p class="intro-text">
+Auf dieser Seite findest du systematische Erklärungen deutscher Grammatikregeln mit Beispielen und Übungen für das C1-Niveau. Jedes Thema enthält ausführliche Erklärungen und praktische Übungen.
+</p>
 
-### 01. Vergangenheitsformen: Perfekt und Plusquamperfekt
+### Verfügbare Themen:
 
-Eine umfassende Anleitung zur Bildung und Verwendung von Perfekt und Plusquamperfekt. Inkl. Konjugationstabellen und häufigen unregelmäßigen Verben.
-
-<div class="topic-meta">
-<strong>Themen:</strong> Perfekt, Plusquamperfekt, Partizip II, haben/sein<br>
-<strong>Niveau:</strong> B2-C1
-</div>
-
-<div class="topic-links">
-📚 <a href="grammatik/01_vergangenheitsformen/erklaerung.md">Zur Lektion</a>
-✏️ <a href="grammatik/01_vergangenheitsformen/aufgaben.md">Übungen</a>
-</div>
-
-</div>
-
-<a href="grammatik/" style="display: inline-block; margin-top: 20px; color: #2196F3; font-weight: 500;">→ Alle Grammatikthemen anzeigen</a>
+<ul class="topic-list">
+  <li>
+    <a href="grammatik/01_vergangenheitsformen/erklaerung.md">01. Vergangenheitsformen (Perfekt & Plusquamperfekt)</a>
+    <div class="topic-desc">Bildung und Verwendung von Perfekt und Plusquamperfekt • Niveau: B2-C1</div>
+  </li>
+</ul>
 
 </div>
 
 <div id="vokabular" class="tab-content">
 
-## Vokabelthemen
+## Vokabular
 
-<div class="topic-card">
+<p class="intro-text">
+Hier findest du thematisch organisierte Vokabellisten mit deutschen Wörtern und englischen Übersetzungen. Alle Übersetzungen wurden mit professionellen Tools erstellt und sind nach Themen sortiert.
+</p>
 
-### 01. Essen und Küche
+### Verfügbare Themen:
 
-Umfangreiches Vokabular rund um Essen, Kochen und Küche. Von Küchengeräten bis zu Gewürzen.
-
-<div class="topic-meta">
-<strong>Wörter:</strong> 50+ Vokabeln<br>
-<strong>Kategorien:</strong> Küchengeräte, Mahlzeiten, Gewürze, Verben
-</div>
-
-<div class="topic-links">
-📝 <a href="vokabular/01_essen/">Vokabelliste ansehen</a>
-</div>
-
-</div>
-
-<a href="vokabular/" style="display: inline-block; margin-top: 20px; color: #2196F3; font-weight: 500;">→ Alle Vokabelthemen anzeigen</a>
+<ul class="topic-list">
+  <li>
+    <a href="vokabular/01_essen/">01. Essen und Küche</a>
+    <div class="topic-desc">Besteck, Küchengeräte, Mahlzeiten, Gewürze und Koch-Verben • 50+ Vokabeln</div>
+  </li>
+</ul>
 
 </div>
 
 <div id="info" class="tab-content">
 
-## Über dieses Projekt
+## Info
 
+<p class="intro-text">
 Diese Lernplattform ist mein persönliches Tool zur Vorbereitung auf das C1-Zertifikat in Deutsch. Alle Inhalte werden kontinuierlich erweitert und verbessert.
+</p>
 
 ### Lernmethode
 
