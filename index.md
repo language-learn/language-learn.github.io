@@ -181,6 +181,20 @@ Diese Lernplattform ist mein persönliches Tool zur Vorbereitung auf das C1-Zert
   <li><strong>Vokabular</strong>: Thematisch organisierte Vokabellisten mit deutschen Wörtern und englischen Übersetzungen</li>
 </ul>
 
+<h3>📥 Downloads</h3>
+
+<div style="padding: 18px; border: 3px solid #2c2416; background: #fff; box-shadow: 6px 6px 0 #2c2416; margin: 20px 0;">
+  <strong style="font-size: 17px; color: #8b4513;">🎴 Anki Deck - Komplettes Lernmaterial</strong>
+  <div style="color: #5c4a3a; font-size: 13px; margin-top: 8px; line-height: 1.6;">
+    Alle Vokabeln und Grammatikübungen als Anki-Deck (.apkg) • Hierarchisch organisiert • Importiere direkt in Anki
+  </div>
+  <div style="margin-top: 12px;">
+    <a href="static/downloads/Deutsch_C1.apkg" download style="display: inline-block; padding: 10px 16px; background: #8b7355; color: #f5f0e8; text-decoration: none; font-weight: bold; border: 2px solid #2c2416; box-shadow: 3px 3px 0 #2c2416; transition: all 0.2s;">
+      📥 Deutsch_C1.apkg herunterladen
+    </a>
+  </div>
+</div>
+
 <hr>
 
 <p><em>Letzte Aktualisierung: November 2025</em></p>

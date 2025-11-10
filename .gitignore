@@ -34,5 +34,6 @@ venv/
 ENV/
 .uv/
 
-# Generated Anki decks
+# Generated Anki decks (except the main one for download)
 *.apkg
+!static/downloads/Deutsch_C1.apkg
