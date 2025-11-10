@@ -122,18 +122,18 @@ h1, h2, h3 {
 
 <div id="grammatik" class="tab-content active">
 
-## Grammatik
+<h2>Grammatik</h2>
 
 <p class="intro-text">
 Auf dieser Seite findest du systematische Erklärungen deutscher Grammatikregeln mit Beispielen und Übungen für das C1-Niveau. Jedes Thema enthält ausführliche Erklärungen und praktische Übungen.
 </p>
 
-### Verfügbare Themen:
+<h3>Verfügbare Themen:</h3>
 
 <ul class="topic-list">
   <li>
-    <a href="grammatik/01_vergangenheitsformen/erklaerung.md">01. Vergangenheitsformen (Perfekt & Plusquamperfekt)</a>
-    <div class="topic-desc">Bildung und Verwendung von Perfekt und Plusquamperfekt • Niveau: B2-C1</div>
+    <a href="grammatik/01_vergangenheitsformen/erklaerung">01. Vergangenheitsformen (Perfekt & Plusquamperfekt)</a>
+    <div class="topic-desc">Bildung und Verwendung von Perfekt und Plusquamperfekt • Niveau: B2-C1 • <a href="grammatik/01_vergangenheitsformen/aufgaben.csv" download>📥 Übungen (CSV)</a></div>
   </li>
 </ul>
 
@@ -141,18 +141,18 @@ Auf dieser Seite findest du systematische Erklärungen deutscher Grammatikregeln
 
 <div id="vokabular" class="tab-content">
 
-## Vokabular
+<h2>Vokabular</h2>
 
 <p class="intro-text">
 Hier findest du thematisch organisierte Vokabellisten mit deutschen Wörtern und englischen Übersetzungen. Alle Übersetzungen wurden mit professionellen Tools erstellt und sind nach Themen sortiert.
 </p>
 
-### Verfügbare Themen:
+<h3>Verfügbare Themen:</h3>
 
 <ul class="topic-list">
   <li>
     <a href="vokabular/01_essen/">01. Essen und Küche</a>
-    <div class="topic-desc">Besteck, Küchengeräte, Mahlzeiten, Gewürze und Koch-Verben • 50+ Vokabeln</div>
+    <div class="topic-desc">Besteck, Küchengeräte, Mahlzeiten, Gewürze und Koch-Verben • 50+ Vokabeln • <a href="vokabular/01_essen/vokabeln.csv" download>📥 Download CSV</a></div>
   </li>
 </ul>
 
@@ -160,26 +160,30 @@ Hier findest du thematisch organisierte Vokabellisten mit deutschen Wörtern und
 
 <div id="info" class="tab-content">
 
-## Info
+<h2>Info</h2>
 
 <p class="intro-text">
 Diese Lernplattform ist mein persönliches Tool zur Vorbereitung auf das C1-Zertifikat in Deutsch. Alle Inhalte werden kontinuierlich erweitert und verbessert.
 </p>
 
-### Lernmethode
+<h3>Lernmethode</h3>
 
-1. **Grammatik verstehen** - Regeln lernen und internalisieren
-2. **Vokabular aufbauen** - Thematische Wortschatzarbeit
-3. **Üben, üben, üben** - Regelmäßige Übungen und Anwendung
+<ol>
+  <li><strong>Grammatik verstehen</strong> - Regeln lernen und internalisieren</li>
+  <li><strong>Vokabular aufbauen</strong> - Thematische Wortschatzarbeit</li>
+  <li><strong>Üben, üben, üben</strong> - Regelmäßige Übungen und Anwendung</li>
+</ol>
 
-### Struktur
+<h3>Struktur</h3>
 
-- **Grammatik**: Systematische Erklärungen deutscher Grammatikregeln mit Beispielen und Übungen
-- **Vokabular**: Thematisch organisierte Vokabellisten mit deutschen Wörtern und englischen Übersetzungen
+<ul>
+  <li><strong>Grammatik</strong>: Systematische Erklärungen deutscher Grammatikregeln mit Beispielen und Übungen</li>
+  <li><strong>Vokabular</strong>: Thematisch organisierte Vokabellisten mit deutschen Wörtern und englischen Übersetzungen</li>
+</ul>
 
----
+<hr>
 
-*Letzte Aktualisierung: November 2025*
+<p><em>Letzte Aktualisierung: November 2025</em></p>
 
 </div>
 

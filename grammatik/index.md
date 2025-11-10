@@ -10,7 +10,7 @@ Systematische Erklärungen deutscher Grammatikregeln mit Beispielen, Tabellen un
 
 <div class="lesson-card">
 
-#### [Perfekt und Plusquamperfekt](01_vergangenheitsformen/erklaerung.md)
+#### [Perfekt und Plusquamperfekt](01_vergangenheitsformen/erklaerung)
 
 **Inhalt:**
 - Bildung des Perfekts mit haben/sein
@@ -21,7 +21,7 @@ Systematische Erklärungen deutscher Grammatikregeln mit Beispielen, Tabellen un
 - Tipps für C1-Niveau
 
 **Niveau:** B2-C1
-📚 [Zur Erklärung](01_vergangenheitsformen/erklaerung.md) | ✏️ [Übungen](01_vergangenheitsformen/aufgaben.md)
+📚 [Zur Erklärung](01_vergangenheitsformen/erklaerung) | 📥 [Übungen (CSV)](01_vergangenheitsformen/aufgaben.csv)
 
 </div>
 
