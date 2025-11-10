@@ -6,11 +6,11 @@ Systematische Erklärungen deutscher Grammatikregeln mit Beispielen, Tabellen un
 
 ## Alle Grammatikthemen
 
-### Vergangenheitsformen
+### 01. Vergangenheitsformen
 
 <div class="lesson-card">
 
-#### [Perfekt und Plusquamperfekt](vergangenheitsformen/erklaerung.html)
+#### [Perfekt und Plusquamperfekt](01_vergangenheitsformen/erklaerung.md)
 
 **Inhalt:**
 - Bildung des Perfekts mit haben/sein
@@ -21,7 +21,7 @@ Systematische Erklärungen deutscher Grammatikregeln mit Beispielen, Tabellen un
 - Tipps für C1-Niveau
 
 **Niveau:** B2-C1
-📚 [Zur Erklärung](vergangenheitsformen/erklaerung.html) | ✏️ [Übungen](vergangenheitsformen/aufgaben.html)
+📚 [Zur Erklärung](01_vergangenheitsformen/erklaerung.md) | ✏️ [Übungen](01_vergangenheitsformen/aufgaben.md)
 
 </div>
 

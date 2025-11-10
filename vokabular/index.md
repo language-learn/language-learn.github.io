@@ -6,11 +6,11 @@ Thematisch organisierte Vokabellisten mit deutschen Wörtern und englischen Übe
 
 ## Alle Vokabelthemen
 
-### Essen und Küche
+### 01. Essen und Küche
 
 <div class="lesson-card">
 
-#### [Essen - Vokabelliste](essen/)
+#### [Essen - Vokabelliste](01_essen/)
 
 **Kategorien:**
 - 🍴 Besteck und Geschirr (Gabel, Messer, Löffel, Teller, Tasse, Glas, Schüssel)
@@ -20,7 +20,7 @@ Thematisch organisierte Vokabellisten mit deutschen Wörtern und englischen Übe
 - 👨‍🍳 Koch-Verben (kochen, braten, backen, grillen, dämpfen, würzen, schneiden)
 
 **Anzahl Vokabeln:** 50+
-📝 [Zur Vokabelliste](essen/)
+📝 [Zur Vokabelliste](01_essen/)
 
 </div>
 
