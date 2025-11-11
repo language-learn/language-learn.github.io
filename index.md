@@ -154,6 +154,14 @@ Hier findest du thematisch organisierte Vokabellisten mit deutschen Wörtern und
     <a href="vokabular/01_essen/">01. Essen und Küche</a>
     <div class="topic-desc">Besteck, Küchengeräte, Mahlzeiten, Gewürze und Koch-Verben • 50+ Vokabeln • <a href="vokabular/01_essen/vokabeln.csv" download>📥 Download CSV</a></div>
   </li>
+  <li>
+    <a href="vokabular/02_reisen/">02. Reisen</a>
+    <div class="topic-desc">Flugverkehr, Bahnverkehr, Unterkunft, Gepäck und Kontrollen, Reisearten • 70 Vokabeln • <a href="vokabular/02_reisen/vokabeln.csv" download>📥 Download CSV</a></div>
+  </li>
+  <li>
+    <a href="vokabular/03_politik/">03. Politik (Deutschland)</a>
+    <div class="topic-desc">Institutionen, Parteien, Wahlen, Gesetzgebung, Politikfelder • 70 Vokabeln • <a href="vokabular/03_politik/vokabeln.csv" download>📥 Download CSV</a></div>
+  </li>
 </ul>
 
 </div>
